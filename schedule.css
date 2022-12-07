@@ -1,0 +1,41 @@
+
+
+table{
+    font-family: 'Montserrat', sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){
+    background-color: #dddddd;
+}
+
+
+
+li{
+    display: inline;
+    float: right;
+    padding-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 100px;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+h2{
+    color: #04aa6d;
+    text-align: center;
+}
